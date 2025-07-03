@@ -1,19 +1,23 @@
-<h1 align="center">Hi there, I'm Roky! 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/RAKIB-ROKY-009">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Let's+create+something+awesome!" alt="Typing SVG" />
-  </a>
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ 
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+    RAKIB-ROKY-009 (RAKIB HASAN ROKY)
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Mr+ROKY;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+ 
 </p>
-
-<p align="center">
-  <a href="https://github.com/RAKIB-ROKY-009">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=RAKIB-ROKY-009.RAKIB-ROKY-009" alt="Profile Visitors" />
-  </a>
-  <a href="https://github.com/RAKIB-ROKY-009?tab=followers">
-    <img src="https://img.shields.io/github/followers/RAKIB-ROKY-009?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+ 
+<h3 align="center">Spammer and developer from Bangladesh</h3>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ROKY-009&label=Profile%20views&color=eb4d3d&style=flat-square" alt="ROKY-009" /> </p>
+</i></b></h3>
 
 ---
 
