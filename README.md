@@ -20,11 +20,16 @@
 </i></b></h3>
 
 ---
+### 📫 **Let's Connect!**
 
-### 🔥 **About Me**
-
-Hi, I'm Rakib Hasan Roky, an 20-year-old Python developer passionate about coding and building innovative solutions. I enjoy tackling challenges and continuously learning to improve my skills in programming and software development.
-
+<p align="center">
+  <a href="https://www.facebook.com/rakib.roky.009">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:rakibroky009@gmail">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 ---
 
 ### 🛠️ **Technologies & Tools**
@@ -63,19 +68,5 @@ Hi, I'm Rakib Hasan Roky, an 20-year-old Python developer passionate about codin
 </p>
 
 ---
-
-### 📫 **Let's Connect!**
-
-<p align="center">
-  <a href="https://www.facebook.com/rakib.roky.009">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:rakibroky009@gmail">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-
 <p align="center">Thanks for stopping by! 😄</p>
+---
